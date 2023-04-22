@@ -1,0 +1,422 @@
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe.config
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\Proyecto.pdb
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\itextsharp.dll
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\bin\Debug\itextsharp.xml
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form1.resources
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.exe
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.pdb
+D:\WorkSpaceAD\YOUTUBE\031_FUNCIONALIDAD GENERAR REPORTE\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\itextsharp.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\itextsharp.xml
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\EnvDTE.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\stdole.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia\ProyectoPDF\Proyecto\bin\Debug\EnvDTE.xml
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\EnvDTE.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\stdole.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\EnvDTE.xml
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\System.Windows.Forms.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2)\ProyectoPDF\Proyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\System.Windows.Forms.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\EnvDTE.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\stdole.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\EnvDTE.xml
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (2) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form4.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\System.Windows.Forms.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\EnvDTE.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\stdole.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\EnvDTE.xml
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form4.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3)\ProyectoPDF\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\System.Windows.Forms.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\EnvDTE.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\stdole.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\EnvDTE.xml
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form4.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Mauro\Desktop\ProyectoPDF - copia - copia (3) - copia\ProyectoPDF\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\System.Windows.Forms.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\EnvDTE.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\stdole.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\EnvDTE.xml
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Form4.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\obj\Debug\Proyecto.csproj.CopyComplete
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Mauro\Desktop\ProyectoPDF - Funcional SOGEFI\ProyectoPDF\Proyecto\obj\Debug\Proyecto.pdb
